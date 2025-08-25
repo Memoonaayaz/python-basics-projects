@@ -14,9 +14,9 @@ A collection of simple Python projects I created while learning the fundamentals
 - **Circle Area Calculator ⚪** → Calculates the area of a circle based on the radius.  
   *Concepts used:* `math.pi`, `pow()`, rounding, formatted output.  
 
-- **Hypotenuse Finder 📐 → Uses the Pythagorean theorem to calculate the hypotenuse of a right-angled triangle.  
+- **Hypotenuse Finder 📐** → Uses the Pythagorean theorem to calculate the hypotenuse of a right-angled triangle.  
   *Concepts used:* `math.sqrt()`, `pow()`, multiple inputs.
-----
+---
 ## What I Learned
 
 - Taking input from the user with input().
@@ -25,5 +25,5 @@ A collection of simple Python projects I created while learning the fundamentals
 - Applying formulas in code (geometry + Pythagoras).
 - Organizing multiple scripts in one project.
 
-  ##  Next Steps
+ ##  Next Steps
 I plan to add more small Python projects as I continue learning.
